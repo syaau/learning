@@ -27,4 +27,6 @@ There is a chance that you might corrupt your raspberry pi installation by cold 
   You can then update your application and once then remount it
   back to readonly.
   > `$ sudo mount -o remount,ro /`
+* Also NTP was not installed by default. It's important that your raspberry's time is up-to-date.
+  > `$ sudo apt-get install ntp`
 
