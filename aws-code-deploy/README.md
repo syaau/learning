@@ -1,4 +1,5 @@
 # Deploying nodejs code with AWS Code Deploy
+* AWS Code Deploy is free (Only need to pay for our EC2 usage and other AWS resources if any).
 * Requires 2 iam roles
   * For the Code Deploy
     > Use the policy provided by AWS
