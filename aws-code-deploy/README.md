@@ -7,6 +7,8 @@
     > For EC2 it just needs a policy to access S3
 
 * Make sure the EC2 instance has AWS code deploy agent installed
+  > `$ sudo yum update -y && sudo yum install -y ruby`
+
   > `$ cd /home/ec2-user`
   
   > `$ curl -O https://aws-codedeploy-ap-south-1.s3.amazonaws.com/latest/install`
