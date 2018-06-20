@@ -5,3 +5,5 @@ start when I need that again next year.
 * [Raspberry PI](raspberry-pi/README.md)
 
 * [AWS Code Deploy](aws-code-deploy/README.md)
+
+* [Redis Installation](redis/README.md)
